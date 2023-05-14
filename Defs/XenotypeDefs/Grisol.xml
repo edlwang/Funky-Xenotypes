@@ -3,15 +3,12 @@
     <XenotypeDef>
         <defName>Grisol</defName>
         <label>Grisol</label>
-        <description>
-            Sharing many similarities with Wasters, Grisol were genetically engineered to endure highly polluted areas.
-            Grisol colonies have a singular goal: to spread their toxic environment to other planets.
-            They are extremely proficient in ranged and melee combat, but lack the skills to maintain a civilized society.
-        </description>
+        <description>Sharing many similarities with Wasters, Grisol were genetically engineered to endure highly polluted areas. Grisol colonies have a singular goal: to spread their toxic environment to other planets. They are extremely proficient in ranged and melee combat, but lack the skills to maintain a civilized society.</description>
         <descriptionShort>Tox raiders with high combat ability and low skills to maintain society</descriptionShort>
         <inheritable>true</inheritable>
         <combatPowerFactor>2</combatPowerFactor>
 		<inheritable>True</inheritable>
+		<iconPath>UI/Icons/Xenotypes/Frown</iconPath>
 		<genes>
 			<li>Immunity_Strong</li>
 			<li>WoundHealing_Fast</li>
