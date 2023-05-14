@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8">
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <XenotypeDef>
         <defName>HighDwarf</defName>
@@ -48,7 +48,7 @@
             <li>AptitudeTerrible_Animals</li>
             <li>AptitudeRemarkable_Crafting</li>
             <li>AptitudeRemarkable_Artistic</li>
-            <li>AptitudeRemarkable_Medical</li>
+            <li>AptitudeRemarkable_Medicine</li>
             <li>AptitudeRemarkable_Social</li>
             <li>AptitudeRemarkable_Intellectual</li>
             <li>ChemicalDependency_Alcohol</li>
