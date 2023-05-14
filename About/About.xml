@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <name>Funky Xenotypes</name>
+    <author>Kaidame, Bob Magilica</author>
+    <url>https://github.com/edlwang/Funky-Xenotypes</url>
+    <packageId>Kaidame.FunkyXenotypes</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description> Some funky xenotypes and factions including them that my friends and I made for some Rimworld runs.</description>
+    <modDependencies>
+        <li>
+            <packageId>Ludeon.Rimworld.Biotech</packageId>
+            <displayName>Biotech</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.Rimworld.Biotech</li>
+    </loadAfter>
+</ModMetaData>
