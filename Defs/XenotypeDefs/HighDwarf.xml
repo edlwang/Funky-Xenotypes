@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8">
+<Defs>
+    <XenotypeDef>
+        <defName>HighDwarf</defName>
+        <label>High Dwarf</label>
+        <description>Overpowered Vampire Dwarves</description>
+        <descriptionShort>Overpowered Vampire Dwarves</descriptionShort>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>2</combatPowerFactor>
+        <genes>
+            <li>Ageless</li>
+            <li>ArchiteMetabolism</li>
+            <li>Deathless</li>
+            <li>XenogermReimplanter</li>
+            <li>DiseaseFree</li>
+            <li>Hemogenic</li>
+            <li>HemogenDrain</li>
+            <li>Bloodfeeder</li>
+            <li>Deathrest</li>
+            <li>WoundHealing_SuperFast</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Extreme</li>
+            <li>Mood_Depressive</li>
+            <li>MinTemp_SmallIncrease</li>
+            <li>MaxTemp_SmallDecrease</li>
+            <li>Neversleep</li>
+            <li>Robust</li>
+            <li>Libido_High</li>
+            <li>Sterile</li>
+            <li>Eyes_Red</li>
+            <li>Hair_LongOnly</li>
+            <li>Beard_NoBeardOnly</li>
+            <li>Ears_Human</li>
+            <li>Nose_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Voice_Human</li>
+            <li>Body_Thin</li>
+            <li>Hair_InkBlack</li>
+            <li>Skin_LightGray</li>
+            <li>Instability_Major</li>
+            <li>ElongatedFingers</li>
+            <li>AptitudeRemarkable_Shooting</li>
+            <li>AptitudeRemarkable_Melee</li>
+            <li>AptitudeRemarkable_Construction</li>
+            <li>AptitudeRemarkable_Mining</li>
+            <li>AptitudeTerrible_Cooking</li>
+            <li>AptitudeTerrible_Plants</li>
+            <li>AptitudeTerrible_Animals</li>
+            <li>AptitudeRemarkable_Crafting</li>
+            <li>AptitudeRemarkable_Artistic</li>
+            <li>AptitudeRemarkable_Medical</li>
+            <li>AptitudeRemarkable_Social</li>
+            <li>AptitudeRemarkable_Intellectual</li>
+            <li>ChemicalDependency_Alcohol</li>
+            <li>ChemicalDependency_Psychite</li>
+        </genes>
+    </XenotypeDef>
+</Defs>

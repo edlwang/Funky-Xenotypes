@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <FactionDef ParentName="OutlanderFactionBase">
+        <defName>HighDwarfFaction</defName>
+        <label>High Dwarf Colony</label>
+        <description>A colony of High Dwarves and their subjects</description>
+        <colorSpectrum>
+            <li>(0, 0, 0)</li>
+            <li>(1.0, 1.0, 1.0)</li>
+        </colorSpectrum>
+        <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+        <configurationListOrderPriority>30</configurationListOrderPriority>
+        <xenotypeSet Inherit="False">
+            <xenotypeChances>
+                <HighDwarf>0.9</HighDwarf>
+                <Baseliner>0.1</Baseliner>
+            </xenotypeChances>
+        </xenotypeSet>
+    </FactionDef>
+</Defs>
