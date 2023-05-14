@@ -7,7 +7,7 @@
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
-    <description> Some funky xenotypes and factions including them that my friends and I made for some Rimworld runs.</description>
+    <description> Some funky xenotypes and factions.</description>
     <modDependencies>
         <li>
             <packageId>Ludeon.Rimworld.Biotech</packageId>

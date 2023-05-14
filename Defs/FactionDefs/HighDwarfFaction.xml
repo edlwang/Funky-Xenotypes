@@ -12,8 +12,8 @@
         <configurationListOrderPriority>30</configurationListOrderPriority>
         <xenotypeSet Inherit="False">
             <xenotypeChances>
-                <HighDwarf>0.9</HighDwarf>
-                <Baseliner>0.1</Baseliner>
+                <HighDwarf>0.25</HighDwarf>
+                <Baseliner>0.75</Baseliner>
             </xenotypeChances>
         </xenotypeSet>
     </FactionDef>
