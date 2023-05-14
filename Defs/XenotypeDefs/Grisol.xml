@@ -7,7 +7,7 @@
         <descriptionShort>Tox raiders with high combat ability and low skills to maintain society</descriptionShort>
         <inheritable>true</inheritable>
         <combatPowerFactor>2</combatPowerFactor>
-		<iconPath>UI/Icons/Xenotypes/Frown</iconPath>
+		<inheritable>True</inheritable>
 		<genes>
 			<li>Immunity_Strong</li>
 			<li>WoundHealing_Fast</li>
