@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <FactionDef ParentName="OutlanderRoughBase">
+        <defName>GrisolFaction</defName>
+        <label>Grisol Toxpire</label>
+        <description>A colony of Grisol</description>
+        <colorSpectrum>
+            <li>(0.2, 0.8, 0.3)</li>
+            <li>(0.5, 1.0, 0.7)</li>
+        </colorSpectrum>
+        <requiredMemes>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Raider</li>
+        </requiredMemes>
+        <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+        <configurationListOrderPriority>30</configurationListOrderPriority>
+        <xenotypeSet Inherit="False">
+            <xenotypeChances>
+                <Grisol>1</Grisol>
+            </xenotypeChances>
+        </xenotypeSet>
+    </FactionDef>
+</Defs>
