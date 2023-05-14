@@ -9,7 +9,6 @@
             <li>(1.0, 1.0, 1.0)</li>
         </colorSpectrum>
         <requiredMemes>
-            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
             <li MayRequire="Ludeon.RimWorld.Ideology">Transhumanist</li>
             <li MayRequire="Ludeon.RimWorld.Ideology">Tunneler</li>
             <li MayRequire="Ludeon.RimWorld.Ideology">Bloodfeeding</li>

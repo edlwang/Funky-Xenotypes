@@ -9,7 +9,6 @@
             <li>(0.5, 1.0, 0.7)</li>
         </colorSpectrum>
         <requiredMemes>
-            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
             <li MayRequire="Ludeon.RimWorld.Ideology">Raider</li>
         </requiredMemes>
         <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
