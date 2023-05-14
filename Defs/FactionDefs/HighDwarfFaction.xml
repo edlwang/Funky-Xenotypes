@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-    <FactionDef ParentName="OutlanderFactionBase">
+    <FactionDef ParentName="OutlanderRoughBase">
         <defName>HighDwarfFaction</defName>
         <label>High Dwarf Colony</label>
         <description>A colony of High Dwarves and their subjects</description>
@@ -8,6 +8,12 @@
             <li>(0, 0, 0)</li>
             <li>(1.0, 1.0, 1.0)</li>
         </colorSpectrum>
+        <requiredMemes>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Transhumanist</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Tunneler</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Bloodfeeding</li>
+        </requiredMemes>
         <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
         <configurationListOrderPriority>30</configurationListOrderPriority>
         <xenotypeSet Inherit="False">
